@@ -35,6 +35,6 @@ This project explores the application of Generative AI in healthcare to overcome
 📧 **Contact**
 Dhatri Dubey  
 📍 India  
-📫 dhatridubey@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhatri-dubey)
+📫 dubeydhatri@gmail.com  
+🔗 (https://www.linkedin.com/in/dhatri-dubey)
 
